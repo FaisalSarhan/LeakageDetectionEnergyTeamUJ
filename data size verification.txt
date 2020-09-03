@@ -1,0 +1,18 @@
+
+this is valid for the data we to date
+
+
+
+
+training dataset =
+number of training samples (H) + ((Image size + label)*number of training images)(B)
+
+(1*2) + ((224*224*3)+1) * 976= 146,916,306 bytes
+
+
+
+
+testing dataset =
+number of testing samples (H) + ((Image size + label)*number of testing images)(B)
+
+(1*2) + ((224*224*3)+1) * 244 = 36,729,078 bytes
