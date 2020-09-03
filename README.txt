@@ -4,4 +4,4 @@ https://drive.google.com/file/d/1HXzn5yd_sjozRj-PKEoc-kIq2XOYL9L1/view?usp=shari
 to train the network again; first , run generate_dataset.py
 then run train.py
 
-to use the pretrained model run : prediction.py 
+to use the pretrained model for prediction only, run : prediction.py 
