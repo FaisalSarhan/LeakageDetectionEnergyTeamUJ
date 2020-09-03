@@ -83,9 +83,9 @@ with torch.no_grad():
                 predection = ('Prediction :No Leakage Detected')
 
             if labels.item() == 1 : 
-                truth = ('Label : Leakage Detected')
+                truth = ('Label : Leakage ')
             elif labels.item() == 0 :
-                truth = ('Label :No Leakage Detected')
+                truth = ('Label :No Leakage ')
 
 
             # print(i)
